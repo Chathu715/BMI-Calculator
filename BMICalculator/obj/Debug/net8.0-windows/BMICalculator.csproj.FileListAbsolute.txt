@@ -1,0 +1,34 @@
+C:\Users\Dinuwan\source\repos\BMICalculator\BMICalculator\bin\Debug\net8.0-windows\BMICalculator.exe
+C:\Users\Dinuwan\source\repos\BMICalculator\BMICalculator\bin\Debug\net8.0-windows\BMICalculator.deps.json
+C:\Users\Dinuwan\source\repos\BMICalculator\BMICalculator\bin\Debug\net8.0-windows\BMICalculator.runtimeconfig.json
+C:\Users\Dinuwan\source\repos\BMICalculator\BMICalculator\bin\Debug\net8.0-windows\BMICalculator.dll
+C:\Users\Dinuwan\source\repos\BMICalculator\BMICalculator\bin\Debug\net8.0-windows\BMICalculator.pdb
+C:\Users\Dinuwan\source\repos\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.Form1.resources
+C:\Users\Dinuwan\source\repos\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.csproj.GenerateResource.cache
+C:\Users\Dinuwan\source\repos\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinuwan\source\repos\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.AssemblyInfoInputs.cache
+C:\Users\Dinuwan\source\repos\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.AssemblyInfo.cs
+C:\Users\Dinuwan\source\repos\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\Dinuwan\source\repos\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.dll
+C:\Users\Dinuwan\source\repos\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\refint\BMICalculator.dll
+C:\Users\Dinuwan\source\repos\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.pdb
+C:\Users\Dinuwan\source\repos\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.genruntimeconfig.cache
+C:\Users\Dinuwan\source\repos\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\ref\BMICalculator.dll
+C:\Users\Dinuwan\source\repos\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.Properties.Resources.resources
+C:\Users\Dinuwan\Desktop\New folder (2)\UGC0223021\BMICalculator\BMICalculator\bin\Debug\net8.0-windows\BMICalculator.exe
+C:\Users\Dinuwan\Desktop\New folder (2)\UGC0223021\BMICalculator\BMICalculator\bin\Debug\net8.0-windows\BMICalculator.deps.json
+C:\Users\Dinuwan\Desktop\New folder (2)\UGC0223021\BMICalculator\BMICalculator\bin\Debug\net8.0-windows\BMICalculator.runtimeconfig.json
+C:\Users\Dinuwan\Desktop\New folder (2)\UGC0223021\BMICalculator\BMICalculator\bin\Debug\net8.0-windows\BMICalculator.dll
+C:\Users\Dinuwan\Desktop\New folder (2)\UGC0223021\BMICalculator\BMICalculator\bin\Debug\net8.0-windows\BMICalculator.pdb
+C:\Users\Dinuwan\Desktop\New folder (2)\UGC0223021\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.Form1.resources
+C:\Users\Dinuwan\Desktop\New folder (2)\UGC0223021\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.Properties.Resources.resources
+C:\Users\Dinuwan\Desktop\New folder (2)\UGC0223021\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.csproj.GenerateResource.cache
+C:\Users\Dinuwan\Desktop\New folder (2)\UGC0223021\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinuwan\Desktop\New folder (2)\UGC0223021\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.AssemblyInfoInputs.cache
+C:\Users\Dinuwan\Desktop\New folder (2)\UGC0223021\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.AssemblyInfo.cs
+C:\Users\Dinuwan\Desktop\New folder (2)\UGC0223021\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\Dinuwan\Desktop\New folder (2)\UGC0223021\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.dll
+C:\Users\Dinuwan\Desktop\New folder (2)\UGC0223021\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\refint\BMICalculator.dll
+C:\Users\Dinuwan\Desktop\New folder (2)\UGC0223021\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.pdb
+C:\Users\Dinuwan\Desktop\New folder (2)\UGC0223021\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\BMICalculator.genruntimeconfig.cache
+C:\Users\Dinuwan\Desktop\New folder (2)\UGC0223021\BMICalculator\BMICalculator\obj\Debug\net8.0-windows\ref\BMICalculator.dll
